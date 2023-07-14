@@ -26,6 +26,7 @@ body {
   }
 
   .five-day-forecast {
-    display: grid;
+    display: inline;
+    size: 30%;
 
   }
